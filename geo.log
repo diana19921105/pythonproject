@@ -1,0 +1,6 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=46.139.217.99 HTTP/1.1" 200 945
+INFO:root:Successfully GET method at http://www.geoplugin.net/json.gp?ip=46.139.217.99
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=46.139.217.99 HTTP/1.1" 200 945
+INFO:root:Successfully GET method at http://www.geoplugin.net/json.gp?ip=46.139.217.99
